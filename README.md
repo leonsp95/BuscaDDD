@@ -2,3 +2,8 @@
 
 Simples(?) programa para verificar e retornar a qual estado pertence um telefone especificado, de acordo com seu DDD.
 Código feito na linguagem Julia com o auxílio de Regex
+
+## 18 de julho de 2021:
+
+- Adicionado loop para que o usuário possa continuar realizando pesquisas
+- Adicionado método try/catch para verificação de validade de número digitado
