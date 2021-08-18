@@ -8,3 +8,7 @@ Código feito na linguagem Julia com o auxílio de Regex
 
 - Adicionado loop para que o usuário possa continuar realizando pesquisas
 - Adicionado método try/catch para verificação de validade de número digitado
+
+### 18 de agosto de 2021:
+
+- Adicionada versão em Python
